@@ -1,11 +1,5 @@
-- 👋 Hi, I’m @J4spr
-- 👀 I’m interested in networking and cybersecurity?
-- 🌱 I’m currently learning java, sql, c++ (arduino version), php, html, css
-- 💞️ I’m looking to collaborate on some projects 
-- 📫 How to reach me: e-mail me at jasper07.verbruggen@gmail.com
-
-<!---
-J4spr/J4spr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-https://www.makeuseof.com/fun-linux-command-line-programs/
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=CedricVerlinden&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=CedricVerlinden&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=CedricVerlinden&theme=darcula&hide_border=true&background=FFFFFF00">
+</p>

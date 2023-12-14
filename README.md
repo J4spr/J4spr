@@ -1,4 +1,3 @@
-**`(Jasper Verbruggen`)**
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains&weight=800&pause=1000&color=FF6E96&center=true&vCenter=true&random=false&width=435&lines=Software+Engineer;Full+Stack+Web+Developer;Cybersecurity%2Fnetwork+engineer)](https://git.io/typing-svg)
 <br><br>
 [![My Skills](https://skillicons.dev/icons?i=github,git,linux,html,css,js,ts,react,nextjs,tailwind,nodejs,figma,mongodb,nestjs,postman,vim,vscode,stackoverflow,c,cpp,mysql,&perline=11)](https://skillicons.dev)
